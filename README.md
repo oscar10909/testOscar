@@ -1,2 +1,3 @@
 # testOscar
-Mi primer repositorio desde la interfaz de GitHub
+Mi primer repositorio 
+Esta es mi segunda linea en el repositorio
